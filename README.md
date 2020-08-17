@@ -1,6 +1,6 @@
 ## FPS Multiplayer Dedicated Server UE4 ##
 
-Más información en **README.pdf**
+[README.pdf](https://github.com/amuoz/BMGameplayServer/blob/master/README.pdf)
 
 Índice
 
